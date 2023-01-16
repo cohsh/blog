@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shell on Kohei Ishii's Blog</title><link>/tags/shell/</link><description>Recent content in Shell on Kohei Ishii's Blog</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>© 2023 Kohei Ishii</copyright><lastBuildDate>Mon, 16 Jan 2023 15:40:09 +0900</lastBuildDate><atom:link href="/tags/shell/index.xml" rel="self" type="application/rss+xml"/><item><title>tar.gzの解凍と圧縮に関するコマンド</title><link>/posts/tar-gz/</link><pubDate>Mon, 16 Jan 2023 15:40:09 +0900</pubDate><guid>/posts/tar-gz/</guid><description>調べても直ぐに忘れるので、自分のためにまとめました。 解凍: hogehoge.tar.gz → hogehoge/ tar zxvf hogehoge.tar.gz 圧縮: hogehoge/ → hogehoge.tar.gz tar zcvf hogehoge.tar.gz hogehoge 備考 オプションのハイフンは省略できる。</description><content>&lt;p>調べても直ぐに忘れるので、自分のためにまとめました。&lt;/p>
+&lt;h4 id="解凍-hogehogetargz--hogehoge">解凍: &lt;code>hogehoge.tar.gz&lt;/code> → &lt;code>hogehoge/&lt;/code>&lt;/h4>
+&lt;pre tabindex="0">&lt;code>tar zxvf hogehoge.tar.gz
+&lt;/code>&lt;/pre>&lt;h4 id="圧縮-hogehoge--hogehogetargz">圧縮: &lt;code>hogehoge/&lt;/code> → &lt;code>hogehoge.tar.gz&lt;/code>&lt;/h4>
+&lt;pre tabindex="0">&lt;code>tar zcvf hogehoge.tar.gz hogehoge
+&lt;/code>&lt;/pre>&lt;h4 id="備考">備考&lt;/h4>
+&lt;ul>
+&lt;li>オプションのハイフンは省略できる。&lt;/li>
+&lt;/ul></content></item></channel></rss>
