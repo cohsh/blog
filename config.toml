@@ -32,6 +32,7 @@ archive = "archives"
 author = "Kohei Ishii"
 description = "Ph.D. Student at The University of Tokyo"
 avatar = "/avatar.png"
+favicon = "/favicon.ico"
 
 [[params.social]]
 icon = "github"
